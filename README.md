@@ -21,7 +21,7 @@
     </tr>
     <tr>
       <td>
-        <pre><code>+size() : int
+        <code>+size() : int
 +add(String newValue) : boolean
 +toString() : String
 +get(int index) : String
@@ -32,7 +32,7 @@
 +add(int index,String newValue)
 +remove(int index) : String
 +remove(String s) : boolean
-</code></pre>
+</code>
       </td>
     </tr>
   </table>
