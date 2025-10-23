@@ -8,8 +8,8 @@
     </tr>
     <tr>
       <td>
-        <code>-String[] data
--int size</code>
+        <code>-String[] data</code></br>
+        <code>-int size</code>
       </td>
     </tr>
     <tr>
