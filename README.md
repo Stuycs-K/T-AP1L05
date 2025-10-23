@@ -14,8 +14,8 @@
     </tr>
     <tr>
       <td>
-        <code>+SuperArray()
-+SuperArray(int initialCapacity)</code>
+        <code>+SuperArray()</code></br>
+        <code>+SuperArray(int initialCapacity)</code>
       </td>
     </tr>
     <tr>
