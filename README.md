@@ -36,6 +36,5 @@
   </table>
 
 ## Descriptions:
-    <code>public SuperArray()</code> - The no-arg <em>constructor</em> makes an empty SuperArray.
-      Empty means no elements (size is 0), the array should start with a <em>length</em> of 10. This means 10 is the maximum
-      capacity.
+
+<code>public SuperArray()</code> - The no-arg <em>constructor</em> makes an empty SuperArray. Empty means no elements (size is 0), the array should start with a <em>length</em> of 10. This means 10 is the maximum capacity.
