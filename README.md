@@ -58,3 +58,8 @@
 <code>public int indexOf(String target)</code> - return the smallest index where the value in the SuperArray matches the target string. Return -1 when no value matches. You may assume the target String is not null.
 
 <code>public int lastIndexOf(String target)</code> - return the largest index where the value in the SuperArray matches the target string. Return -1 when no value matches. You may assume the target String is not null.
+
+<code>public String remove(int index)</code> - remove the element at the specified index return the value that you removed. Throw an exception when index is out of bounds.
+
+<code>public boolean remove(String target)</code> - remove the leftmost element that has the same value as the target string. Return true if the element was present and removed, false if it was not found.
+    
