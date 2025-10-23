@@ -8,15 +8,15 @@
     </tr>
     <tr>
       <td>
-        <pre><code>-String[] data
--int size</code></pre>
+        <code>-String[] data
+-int size</code>
       </td>
     </tr>
     <tr>
       <td>
-        <pre><code>+SuperArray()
+        <code>+SuperArray()
 +SuperArray(int initialCapacity)
-</code></pre>
+</code>
       </td>
     </tr>
     <tr>
