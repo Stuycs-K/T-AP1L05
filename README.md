@@ -20,17 +20,17 @@
     </tr>
     <tr>
       <td>
-        <code>+size() : int</code>
-<code>+add(String newValue) : boolean</code></br>
-<code>+toString() : String</code></br>
-<code>+get(int index) : String</code></br>
-<code>+set(int index, String val) : String</code></br>
-<code>-resize()</code></br>
-<code>+indexOf(String s) : int</code></br>
-<code>+lastIndexOf(String s) : int</code></br>
-<code>+add(int index,String newValue)</code></br>
-<code>+remove(int index) : String</code></br>
-<code>+remove(String s) : boolean</code></br>
+        <code>+size() : int</code></br>
+        <code>+add(String newValue) : boolean</code></br>
+        <code>+toString() : String</code></br>
+        <code>+get(int index) : String</code></br>
+        <code>+set(int index, String val) : String</code></br>
+        <code>-resize()</code></br>
+        <code>+indexOf(String s) : int</code></br>
+        <code>+lastIndexOf(String s) : int</code></br>
+        <code>+add(int index,String newValue)</code></br>
+        <code>+remove(int index) : String</code></br>
+        <code>+remove(String s) : boolean</code>
 </td>
     </tr>
   </table>
