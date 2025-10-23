@@ -15,8 +15,7 @@
     <tr>
       <td>
         <code>+SuperArray()
-+SuperArray(int initialCapacity)
-</code>
++SuperArray(int initialCapacity)</code>
       </td>
     </tr>
     <tr>
@@ -31,8 +30,7 @@
 +lastIndexOf(String s) : int
 +add(int index,String newValue)
 +remove(int index) : String
-+remove(String s) : boolean
-</code>
-      </td>
++remove(String s) : boolean</code>
+</td>
     </tr>
   </table>
