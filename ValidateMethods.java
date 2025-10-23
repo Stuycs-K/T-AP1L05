@@ -1,6 +1,6 @@
 public class ValidateMethods{
   public static void main(String[]args){
-    System.exit();//do not run the methods.
+  if(args.length < 10)System.exit();//do not run the methods.
     SuperArray a = new SuperArray();
     SuperArray b = new SuperArray(111);
     a.add("");
